@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## activity_second.java
-```
+```java
 package com.example.ex2_intent;
 import androidx.appcompat.app.AppCompatActivity;
 
